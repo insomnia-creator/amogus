@@ -1,0 +1,23 @@
+{
+  "name": "amogus",
+  "version": "1.0.0",
+  "description": "when the impostor is sus 😳",
+  "main": "amogus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insomnia-creator/amogus.git"
+  },
+  "keywords": [
+    "amogus",
+    "sus"
+  ],
+  "author": "insomnia-creator",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insomnia-creator/amogus/issues"
+  },
+  "homepage": "https://github.com/insomnia-creator/amogus#readme"
+}
