@@ -6,9 +6,9 @@ class AMOGUS {
          *
          */
         if(!Array.isArray(crewmates)){
-            reject('Please provide a valid array!')
+             throw 'Please provide a valid array!'
         } else if(crewmates.length > 10){
-            reject("10 is the maximum crewmates.")
+            throw "10 is the maximum crewmates."
         }
         this.crewmates = crewmates;
 
